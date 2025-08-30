@@ -1,4 +1,4 @@
-"""1. Elabore um programa que:
+"""1. Elabore um programa que
 • Mostre um menu de opções de conversão entre moedas (1 – dólar americano,
 2 – euro, 3 – libra esterlina e 4 – yuan;
 • Leia a escolha do usuário;
@@ -25,3 +25,4 @@ elif escolha ==4:
 else:
 
     print("Escolha inválida.")
+
