@@ -23,4 +23,5 @@ elif escolha ==3:
 elif escolha ==4:
     print("Valor da transação:", valor*0.515, "yuans.")
 else:
+
     print("Escolha inválida.")
